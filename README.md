@@ -1,3 +1,11 @@
+SOFTWARE MODELLING AND DESIGN ASSIGNMENT ON GISHUSHU TRAFFIC LIGHT STATE DIAGRAM
+.................................................................................
+
+NAMES:ISHIMWE Thierry Henry
+ID:25319
+GROUP:E
+                                             
+                                             
                                              GISHUSHU TRAFFIC LIGHTS STATES DIAGRAM SPECIFICATIONS
                                              =====================================================
 
